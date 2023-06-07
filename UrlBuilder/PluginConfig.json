@@ -1,0 +1,18 @@
+{
+  "assembly": [
+    "UrlBuilder.dll"
+  ],
+  "css": [],
+  "javascript": [
+    "Resources/UrlBuilderCommand.js"
+  ],
+  "image": "Resources/search.png",
+  "description": "本插件可通过指定页面名和参数生成对应的URL地址，通常用于制作页面二维码等场景",
+  "name": "前端生成URL插件",
+  "pluginType": "command",
+  "guid": "f8f451d4-ece2-49f7-bbbd-f0e5e3b25d46",
+  "version": "1.0.0.0",
+  "dependenceVersion": "8.0.0.0",
+  "bundleJavaScript": true,
+  "bundleCSS": true
+}
