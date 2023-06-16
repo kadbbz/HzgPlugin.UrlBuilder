@@ -7,7 +7,7 @@ class UrlBuilderCommand extends Forguncy.Plugin.CommandBase{
         let outParamaterName = this.CommandParam.OutParamaterName; 
         let urlPairs = this.CommandParam.UrlParamaterPairs;
 
-        let rootPath = window.location.origin + Forguncy.StaticData.ForguncyRoot;
+        let rootPath = window.location.origin + Forguncy.Helper.SpecialPath.getBaseUrl();
 
         let pageUrl = rootPath + pageName;
 

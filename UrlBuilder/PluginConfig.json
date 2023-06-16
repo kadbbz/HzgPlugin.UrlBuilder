@@ -11,7 +11,7 @@
   "name": "前端生成URL插件",
   "pluginType": "command",
   "guid": "f8f451d4-ece2-49f7-bbbd-f0e5e3b25d46",
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "dependenceVersion": "8.0.0.0",
   "bundleJavaScript": true,
   "bundleCSS": true
